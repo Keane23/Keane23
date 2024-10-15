@@ -2,7 +2,7 @@
 
 A Fulltime CS Student @UOM<br>
 
-- ⚙️ I use : `.py`, `.js`, `.html`, `.css`,`.ai`, `.scratch`
+- ⚙️ I use : `.py`, `.js`, `.html`, `.css`, `.ai`, `.scratch`
 - 💅 Designed: ComingSoon…
 - 🔍 I enjoy drawing, sudoku, working out
 <details>
